@@ -1,0 +1,2 @@
+||www.youtube.com^$client='192.168.2.35'
+||www.bigo.tv^$client='192.168.2.35'
